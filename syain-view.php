@@ -36,7 +36,7 @@ td,th {
 <body>
 <h3 class="alert alert-primary">
     <?= $title ?>
-    <a href="." class="btn btn-secondary btn-sm folder me-4">フォルダ</a>
+    <a href=".." class="btn btn-secondary btn-sm folder me-4">フォルダ</a>
 </h3>
 <div id="content">
 
